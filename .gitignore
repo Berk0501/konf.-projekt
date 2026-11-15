@@ -1,0 +1,9 @@
+# de här skapas när man kör projektet
+viktiga_filer/
+backup/
+logg.txt
+
+# terraform skapar de här själv
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup

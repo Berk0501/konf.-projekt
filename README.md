@@ -95,10 +95,10 @@ Det ska stå `Alla filer finns i backupen!`
 - Python kollar bara att filerna finns, inte att innehållet är samma.
 - Man kör de tre stegen själv, ett i taget.
 
-## AI och källor
+## källor
 
-Jag har använt AI (Claude) som hjälp för att skriva koden och README. Jag har testat allt och gått igenom
-koden så att jag förstår den. Idén kommer från lärarens exempel.
+Jag har använt Claude som hjälp för att skriva koden och README. Jag har testat allt och gått igenom
+koden så att jag förstår den. Iden kommer från lärarens exempel.
 
 ## Reflektion
 

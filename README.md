@@ -2,7 +2,7 @@
 
 Projekt i kursen *Infrastruktur konfigurering och deployment med programmering*.
 
-**GitHub:** https://github.com/DITT-ANVÄNDARNAMN/DITT-REPO  <!-- byt ut mot din länk -->
+**GitHub:** https://github.com/Berk0501/konf.-projekt
 
 ## Vad gör projektet?
 
@@ -98,8 +98,8 @@ Det ska stå `Alla filer finns i backupen!`
 ## AI och källor
 
 Jag har använt AI (Claude) som hjälp för att skriva koden och README. Jag har testat allt och gått igenom
-koden så att jag förstår den. Idén kommer från lärarens exempel och kursmaterialet.
+koden så att jag förstår den. Idén kommer från lärarens exempel.
 
 ## Reflektion
 
-<!-- Skriv med dina egna ord: vad lärde du dig, vad var svårt, vad skulle du göra bättre? -->
+Det jag har lärt mig under projektet är till exempel hur viktigt och hur mycket tid man kan spara med automation till exempel som jag gjorde med backup. Det svåra med projektet var hur allt skulle se ut och hur jag skulle börja. Om jag skulle göra något liknande i framtiden så skulle jag försöka göra den lite större
